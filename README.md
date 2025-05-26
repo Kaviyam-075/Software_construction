@@ -1,1 +1,2 @@
-Welcome to the dashboard's client.
+Blog Management System
+
